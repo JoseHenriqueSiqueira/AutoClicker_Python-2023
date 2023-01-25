@@ -20,7 +20,7 @@
 ## How to run the AutoClicker
 <pre>
     Download or clone the repository.
-    Make sure you have Python 3.9 and the required modules (PyQt5 and sys) installed.
+    Make sure you have Python 3.9 and the required modules installed.
     Run the AutoClicker.py file using the command "python AutoClicker.py"
 </pre>
 
